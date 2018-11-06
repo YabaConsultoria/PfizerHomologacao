@@ -14,6 +14,7 @@
             a3.classList.add('text-custom'); 
             a4.classList.add('text-custom'); 
             a5.classList.add('text-custom'); 
+            a6.classList.add('text-custom');
             
             
         }
@@ -23,7 +24,7 @@
          a3.classList.remove('text-custom');
          a4.classList.remove('text-custom');
          a5.classList.remove('text-custom');
-       
+         a6.classList.remove('text-custom');
          
 
         }

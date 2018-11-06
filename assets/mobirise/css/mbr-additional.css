@@ -485,6 +485,10 @@ body {
 .text-black {
   color: rgb(0, 0, 0) !important;
 }
+
+.text-blue{
+  color: #002060 !important;
+}
 .text-custom {
   color: white !important;
 }
