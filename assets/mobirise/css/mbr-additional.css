@@ -453,6 +453,7 @@ body {
   background: none;
   border-color: #ffffff;
   color: #ffffff;
+  border-radius: 15px;
 }
 .btn-white-outline:hover,
 .btn-white-outline:focus,
@@ -1941,6 +1942,7 @@ body {
   background: #ffffff;
   margin-right: 2rem;
   transition: all .4s;
+  border-radius: 30px;
 }
 .cid-qAjKmZasGm .timeline-text-content p {
   margin-bottom: 0;
@@ -3772,7 +3774,7 @@ body {
   word-break: break-word;
 }
 .cid-qAjNNmKwJp .navbar {
-  background: #00B0F0;
+  background: rgb(0, 32, 96);;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
